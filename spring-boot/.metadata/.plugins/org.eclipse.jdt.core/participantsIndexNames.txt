@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3733304962.index
+\spring-boot4
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2041643402.index
+\spring-boot2\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4262972105.index
+\spring-boot3
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\627396848.index
+\spring-boot-jwt\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\558935861.index
+\spring-boot-frontctl\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2479365169.index
+\spring-boot-frontctl-test\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4081324259.index
+\spring-boot\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\707484174.index
+\spring-boot1\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2018337845.index
+\spring-boot-test\src\main\resources
+E:\Rays Software\Workspace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3279859914.index
+\sprinr-boot5\src\main\resources

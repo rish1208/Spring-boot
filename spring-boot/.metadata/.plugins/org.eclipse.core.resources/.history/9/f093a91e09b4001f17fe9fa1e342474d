@@ -1,0 +1,7 @@
+package com.rays.dao;
+
+import com.rays.common.BaseDAOImp;
+
+public class UserDAOImp extends BaseDAOImp<UserDTO>   {
+
+}

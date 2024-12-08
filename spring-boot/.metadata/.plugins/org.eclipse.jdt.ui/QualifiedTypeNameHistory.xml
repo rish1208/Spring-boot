@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="com.rays.common.DemoResponse"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.autoconfigure.SpringBootApplication"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.SpringApplication"/>
+    <fullyQualifiedTypeName name="com.rays.SpringBootTestApplication"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="com.rays.common.DropDownList"/>
+    <fullyQualifiedTypeName name="com.rays.service.BaseServiceImp"/>
+    <fullyQualifiedTypeName name="com.rays.service.BaseServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseForm"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseDTO"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseCtl"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseDAOImp"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseServiceInt"/>
+    <fullyQualifiedTypeName name="com.rays.common.BaseServiceImp"/>
+    <fullyQualifiedTypeName name="com.rays.dao.UserDAOInt"/>
+    <fullyQualifiedTypeName name="com.rays.form.UserForm"/>
+    <fullyQualifiedTypeName name="com.rays.dto.UserDTO"/>
+    <fullyQualifiedTypeName name="com.rays.service.UserServiceInt"/>
+</qualifiedTypeNameHistroy>
